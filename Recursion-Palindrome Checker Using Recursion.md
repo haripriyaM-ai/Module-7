@@ -1,4 +1,4 @@
-# EXP 31: Recursion:Palindrome Checker Using Recursion in Python
+# EXP 32: Recursion:Palindrome Checker Using Recursion in Python
 
 ##  AIM:
 To write a Python program to check whether a given string is a **palindrome** using **recursion**.
